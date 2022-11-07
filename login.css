@@ -32,7 +32,14 @@ btn {
 	transition: all .6s;
   
 
+
 }
+.login-btn-page{
+	color: #F7CA18;
+}
+
+
+
 .btn-larger:hover, .btn-larger:focus, .btn-larger:active, .btn-larger.active, .open .dropdown-toggle.btn-larger {
 	border-color: #F7CA18;
 	color: #fff;
